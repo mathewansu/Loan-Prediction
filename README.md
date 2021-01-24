@@ -13,3 +13,4 @@ This project aim at predicting the status of Loan on basis of Gender,	Married,	D
 - ApplicantIncome,CoapplicantIncome, Loan amount and Loan amount term has vvery less impact on the mpdel prediction
 - Credit History played an important role in orediction
 - Property_Area_Semiurban,Education_Not Graduate, Married and dependents alls played an important role in prediction	
+![alt text](https://github.com/mathewansu/Loan-Prediction/blob/main/Feature%20Importance.PNG)
