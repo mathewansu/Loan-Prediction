@@ -2,7 +2,9 @@
 
 This project aim at predicting the status of Loan on basis of Gender,	Married,	Dependents,	Education	,Self_Employed,	ApplicantIncome,	CoapplicantIncome,	LoanAmount	Loan_Amount_Term,	Credit_Histor,y	Property_Area	Loan_Status of the customer applied for loan.
 
-## Confusion Matrix
+## Performed EDA and Trained a model using Logistic Regression
+
+### Confusion Matrix
 ![alt text](https://github.com/mathewansu/Loan-Prediction/blob/main/Confusion%20Matrix.PNG)
 ### Business Insights
 - Logistic regression: 81% accuracy
